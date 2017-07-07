@@ -17,7 +17,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="main_toggle_effects_title">Effets audio</string>
-    <string name="combo_device">Effets pris en charge uniquement pour la lecture avec un casque.</string>
+    <string name="combo_device">Effets pris en charge uniquement pour la lecture avec un casque</string>
     <string name="pr_title">Réverbération</string>
     <string name="pr_summary">Effets de chambre réverbérante supplémentaires</string>
     <string name="pr_dialog_title">Réverbération prédéfinie</string>
@@ -52,9 +52,19 @@
     <string name="drawer_open">Ouvrir le tiroir de navigation</string>
     <string name="drawer_close">Fermer le tiroir de navigation</string>
 
+    <string name="current_output">Sortie actuelle :</string>
+
     <string name="stereowide_light">Légère</string>
     <string name="stereowide_moderate">Modérée</string>
     <string name="stereowide_high">Élevée</string>
     <string name="stereowide_none">Aucune</string>
     <string name="sw_title">Amplification stéréo</string>
+
+    <!-- Presets -->
+    <string name="preset_menu">Réglages</string>
+    <string name="save_preset">Enregistrer</string>
+    <string name="load_preset">Importer</string>
+    <string name="new_preset">Nouveau</string>
+    <string name="preset_save_toast">Réglage enregistré</string>
+    <string name="preset_load_toast">Réglage importé</string>
 </resources>
