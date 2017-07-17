@@ -31,4 +31,11 @@
     <string name="stereowide_none">Nincs</string>
     <string name="sw_title">Sztereó widener</string>
 
+    <!-- Presets -->
+    <string name="preset_menu">Hangzások</string>
+    <string name="save_preset">Hangzás mentése</string>
+    <string name="load_preset">Hangzás betöltése</string>
+    <string name="new_preset">Új hangzás...</string>
+    <string name="preset_save_toast">Hangzás mentve</string>
+    <string name="preset_load_toast">Hangzás betöltve</string>
 </resources>
